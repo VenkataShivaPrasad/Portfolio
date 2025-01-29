@@ -10,9 +10,7 @@ import Technologies from "./_components/Technologies";
 const page = () => {
   return (
     <div>
-      <div className="h-[500px]">
       <Home/>
-      </div>
       <Project/>
       <Technologies/>
       <About/>

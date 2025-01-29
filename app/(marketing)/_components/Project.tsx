@@ -36,7 +36,7 @@ const Project = () => {
   return (
     <div id="projects">
       <h1 className="
-       text-4xl font-bold mt-[5rem] text-black relative
+       text-4xl font-bold  text-black relative
       "
       >
         Projects

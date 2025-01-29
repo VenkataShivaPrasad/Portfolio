@@ -20,7 +20,7 @@ const Card = (
     }[];
 }) => {
   return (
-    <div className="flex gap-5 flex-wrap justify-around max-sm:flex-col">
+    <div className="flex gap-5 flex-wrap justify-around max-sm:flex-col max-sm:gap-0">
     {
         item.map((i)=>(
 

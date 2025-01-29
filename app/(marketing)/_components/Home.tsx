@@ -22,7 +22,7 @@ export default function Home() {
   ];
 
   return (
-    <div id="home" className="h-full relative w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md">
+    <div id="home" className="h-[400px] mb-[5rem] relative w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md">
       <div className="w-full absolute inset-0 h-screen">
         <SparklesCore
           id="tsparticlesfullpage"

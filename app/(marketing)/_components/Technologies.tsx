@@ -8,7 +8,7 @@ const Technologies = () => {
     <div id='technologies'>
       <div>
         <h1 className='
-         text-4xl text-black font-bold mt-10 mb-5
+         text-4xl text-black font-bold mt-10  mb-5
         '>
             Technologies
         </h1>
@@ -22,7 +22,7 @@ const Technologies = () => {
       <div className='
        lg:flex lg:justify-between mx-2 mb-[4rem] max-sm:flex-col 
       '>
-      <TechCard Icon={FaReact} title='Front-End' description='Experience with HTML, CSS, Tailwind CSS, React.js, Next.js.'/>
+      <TechCard Icon={FaReact} title='Front-End' description='Experience with HTML, CSS,Javascript, Tailwind CSS,Javascript, React.js, Next.js.'/>
       <TechCard Icon={BsDatabase} title='Back-End' description='Experience with Node.js, Springboot.'/>
       <TechCard Icon={FaTools} title='Tools' description='Experience with VS Code, Github & Katalon.'/>
       </div>
