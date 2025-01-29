@@ -22,8 +22,8 @@ const Technologies = () => {
       <div className='
        lg:flex lg:justify-between mx-2 mb-[4rem] max-sm:flex-col 
       '>
-      <TechCard Icon={FaReact} title='Front-End' description='Experience with Next.js, React.js, Bootstrap, MaterialUi, HTML5, CSS, Tailwind CSS, Sass & TypeScript.'/>
-      <TechCard Icon={BsDatabase} title='Back-End' description='Experience with Node.js, TypeScript, Springboot, MongoDB.'/>
+      <TechCard Icon={FaReact} title='Front-End' description='Experience with HTML, CSS, Tailwind CSS, React.js, Next.js.'/>
+      <TechCard Icon={BsDatabase} title='Back-End' description='Experience with Node.js, Springboot.'/>
       <TechCard Icon={FaTools} title='Tools' description='Experience with VS Code, Github & Katalon.'/>
       </div>
     </div>

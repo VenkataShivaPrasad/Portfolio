@@ -7,8 +7,16 @@ import Card from "./_ui/Card";
 const Project = () => {
 
     const details = [
+      {
+          id:1,
+          title:"Movie Search App",
+          description:"Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, and styled with TailwindCSS.",
+          imageURL:"/images/movie-app.png",
+          demo:"https://movie-search-app-venkatashivaprasads-projects.vercel.app/",
+          code:"https://github.com/VenkataShivaPrasad/MovieSearch_App"
+      },
         {
-            id:1,
+            id:2,
             title:"Todo App",
             description:"A Todo App built using Next.js and MongoDB for secure authentication and efficient task management.",
             imageURL:"/images/todo-app.png",
@@ -16,21 +24,13 @@ const Project = () => {
             code:"https://github.com/VenkataShivaPrasad/todo_app_mongoDB"
         },
         {
-            id:2,
+            id:3,
             title:"Weather App",
             description:"A Simple Weather App built using Next.js, OpenWeather API, and Axios to fetch weather details based on the entered city.",
             imageURL:"/images/weather-app.png",
             demo:"https://weather-app-venkatashivaprasads-projects.vercel.app/",
             code:"https://github.com/VenkataShivaPrasad/weather-app"
-        },
-        {
-            id:3,
-            title:"Kanban Board",
-            description:"A Simple implementation of a Kanban board using React, Vite, Tailwind CSS, and the DND Kit library.",
-            imageURL:"/images/kanban-board.png",
-            demo:"https://github.com/VenkataShivaPrasad/react-kanban-board",
-            code:"https://github.com/VenkataShivaPrasad/react-kanban-board"
-        },
+        }
     ]
 
   return (

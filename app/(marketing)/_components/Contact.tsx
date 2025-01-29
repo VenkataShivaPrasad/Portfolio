@@ -34,7 +34,7 @@ const Contact = () => {
                 EMAIL
             </h1>
             <p className='
-             lg:text-xl text-black sm:text-[16px] max-sm:text-xl
+             lg:text-xl text-black sm:text-[15px] max-sm:text-xl
             '>venkatashivaprasad.nannuri@gmail.com</p>
         </div>
 

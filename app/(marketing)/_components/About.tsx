@@ -21,16 +21,15 @@ const About = () => {
       <p className='text-2xl sm:text-center max-sm:text-center'>
         Hi 👋, I&apos;m <span className='font-bold'>Venkata Shiva Prasad </span><br />
         <br />
-        Experienced Full Stack Developer with over 2 years of experience. Passionate about delivering high-quality 
-        web solutions with a strong foundation in Node.js. Committed to writing clean code, providing exceptional user experiences, 
+        Web Developer with over 2 years of experience. Committed to writing clean code, providing exceptional user experiences, 
         and staying updated with industry trends for innovative solutions.
       </p>
-      <Button className=' my-10  shadow-md w-[8rem] flex max-sm:m-auto sm:m-auto sm:mt-10 max-sm:mt-10 rounded-md'>
+      <Button className=' my-10  shadow-md w-[10rem] flex max-sm:m-auto sm:m-auto sm:mt-10 max-sm:mt-10 rounded-md'>
         <Link
          href="https://www.cakeresume.com/s---Q7tFShTMkur8GVFBNyNBg--/venkata-shiva-prasad-nannuri"
          target='blank'
         >
-        Download CV
+        Download Resume
         </Link>
       </Button>
       </div>
